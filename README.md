@@ -3,7 +3,7 @@
 Roshan Ragel, Isuru Nawinne, Udaree Kanewela, Gihan Jayatilaka, and Dhanushki Mapitigama. *A Handbook for Online Proctored Examinations*. 2021.
 
 ### Download the Book
-[Download PDF](./A-Handbook-for-Online-Proctored-Examinations.pdf)
+- [Download PDF](./A-Handbook-for-Online-Proctored-Examinations.pdf)
 
 ### Download Supplementary Material
 - [Guide 1 - AR](./Guide-1-AR.pdf)
@@ -20,6 +20,7 @@ This handbook provides a comprehensive guide for conducting online proctored exa
 
 ## Disclaimer
 The authors are providing this book and its contents on an “as is” basis and make no representations or warranties of any kind with respect to this book or its contents. The authors disclaim all such representations and warranties, including but not limited to warranties of healthcare for a particular purpose. In addition, the authors assume no responsibility for errors, inaccuracies, omissions, or any other inconsistencies herein. 
+
 The authors make no guarantees concerning the level of success you may experience by following the guidelines and strategies contained in this handbook, and you accept the risk that results will differ for each individual. The guidelines and procedure provided in this handbook show exceptional results, which may not apply to the average reader, and are not intended to represent or guarantee that you will achieve the same or similar results. All procedures and guidelines are dependent on the adequate prior training given to all responsible authorities, staff members and candidates. It is recommended to provide enough training workshops for the staff authorities and practice exams for the candidates before taking the actual online examination.
 
 ## Correspondence
